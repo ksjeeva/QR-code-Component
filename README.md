@@ -19,7 +19,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 ## Links <br>
 <ul>
-  <li><a href="Click Here"></li>
+  <li><a href="Click Here">https://ksjeeva.github.io/QR-code-Component/</li>
 </ul>
 
 ## Got feedback for us?
